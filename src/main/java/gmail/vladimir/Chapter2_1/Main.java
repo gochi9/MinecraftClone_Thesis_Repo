@@ -1,4 +1,4 @@
-package gmail.vladimir.Chapter1_1;
+package gmail.vladimir.Chapter2_1;
 
 import org.lwjgl.glfw.*;
 import org.lwjgl.opengl.*;
